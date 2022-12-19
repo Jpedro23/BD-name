@@ -1,4 +1,50 @@
-["joao"
-"ana",
-"thais"
-]
+const Menu = [
+  {
+  id: 0,
+  titulo: "Pão na chapa",
+  descricao: "Pão de forma na chapa com uma generosa porção de queijo + suco gratis",
+  preco: "Valor: R$ 10.50 ",
+  image: {uri:"https://www.comidaereceitas.com.br/wp-content/uploads/2021/02/pao_chapa-780x442.jpg"},
+  qtd: "10"
+  },
+  {
+  id: 1,
+  titulo: "Torradas",
+  descricao: "Pão de forma na chapa com geleia real + refrigerante gratis",
+  preco: "Valor: R$ 20.50",
+  image: {uri:"https://www.comidaereceitas.com.br/wp-content/uploads/2021/09/pao_doce_chapapap-780x501.jpg"},
+  qtd: "5"
+  },
+  {
+  id: 2,
+  titulo: "McFlurry",
+  descricao: "Para compor a Seleção do Méqui trouxemos a sobremesa que tem a cara do Brasil",
+  preco: "Valor: R$ 13.50 ",
+  image: {uri:"https://static-images.ifood.com.br/image/upload/t_high/pratos/d596c695-8f68-4ebf-9e09-da6e4e9d1672/201909301542_8HZD_n.png"},
+  qtd: "6"
+  },
+   {
+  id: 3,
+  titulo: "Sanduíche Clássico",
+  descricao: "Sanduíche entre as opções: Big Mac, Cheddar McMelt, Quarterão com Queijo, McChicken, Duplo Burger Bacon ou Duplo Burguer com Queijo e bebidas 400ml",
+  preco: "Valor: R$ 19.90 ",
+  image: {uri:"https://static-images.ifood.com.br/image/upload/t_medium/pratos/de394e53-efbd-41d6-b10f-d229e1512493/202210190939_dlf0tpq2mav.png"},
+  qtd: "2"
+  },
+   {
+  id: 4,
+  titulo: "Mccrispy Chicken Spicy",
+  descricao: "Sanduíche composto pelo novo pão do Méqui, peito de frango temperado empanado, molho de pimenta e picles, acompanhamento e bebida",
+  preco: "Valor: R$ 34.90 ",
+  image: {uri:"https://static-images.ifood.com.br/image/upload/t_medium/pratos/de394e53-efbd-41d6-b10f-d229e1512493/202206070650_gu5hamyz5g.png"},
+  qtd: "15"
+  },
+   {
+  id: 5,
+  titulo: "CHICKEN JUNIOR",
+  descricao: "Frango empanado, maionese, alface americana e pão com gergelim, acompanhamento e bebidaFrango empanado, maionese, alface americana e pão com gergelim, acompanhamento e bebida",
+  preco: "Valor: R$ 23.90 ",
+  image: {uri:"https://static-images.ifood.com.br/image/upload/t_medium/pratos/de394e53-efbd-41d6-b10f-d229e1512493/202208010506_yrhgigh7ari.png"},
+  qtd: "20"
+  }
+];
