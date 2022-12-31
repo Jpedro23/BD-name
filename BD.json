@@ -5,18 +5,20 @@
     "subTitle": "planeta mais proximo do sol",
     "Distance": "91.000.000.00",
     "image": {
-      "uri": "https://www.imagensempng.com.br/wp-content/uploads/2021/03/Planeta-Terra-Png.png"
+      "uri": "https://e7.pngegg.com/pngimages/75/937/png-clipart-mars-mars.png"
     },
-    "qtd": "10"
+    "qtd": "10",
+    "Graviti":"4"
   },
   {
     "id": 1,
-    "titulo": "Torradas",
-    "descricao": "Pão de forma na chapa com geleia real + refrigerante gratis",
-    "preco": "Valor: R$ 20.50",
+    "titulo": "Earth",
+    "subTitle": "Planeta Agua",
+    "Distance": "0",
     "image": {
-      "uri": "https://www.comidaereceitas.com.br/wp-content/uploads/2021/09/pao_doce_chapapap-780x501.jpg"
+      "uri": "https://www.imagensempng.com.br/wp-content/uploads/2021/03/Planeta-Terra-Png.png"
     },
-    "qtd": "5"
+    "qtd": "5",
+    "Gravity":"10"
   }
 ] 
