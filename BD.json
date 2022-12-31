@@ -1,24 +1,24 @@
 [
   {
     "id": 0,
-    "title": "marte",
-    "subTitle": "planeta mais proximo do sol",
-    "Distance": "91.000.000.00",
+    "title": "Mercury",
+    "subTitle": "closest planet to the,sun",
+    "Distance": "91 Mi (Km)",
     "image": {
-      "uri": "https://e7.pngegg.com/pngimages/75/937/png-clipart-mars-mars.png"
+      "uri": "https://img2.gratispng.com/20180404/jse/kisspng-mercury-planet-solar-system-orbit-uranus-planets-5ac59bcbdd0386.1409466415228999159053.jpg"
     },
-    "qtd": "10",
-    "Graviti":"4"
+    "Graviti":"4",
+    "Tmp":"164",
   },
   {
     "id": 1,
-    "title": "Earth",
-    "subTitle": "Planeta Agua",
-    "Distance": "0",
+    "title": "Venus",
+    "subTitle": "Jewel of Heaven",
+    "Distance": "41 Mi (KM)",
     "image": {
-      "uri": "https://www.imagensempng.com.br/wp-content/uploads/2021/03/Planeta-Terra-Png.png"
+      "uri": "https://img2.gratispng.com/20180222/dfq/kisspng-earth-planet-venus-neptune-mars-planet-5a8f8df3d9b446.3317327015193574278917.jpg"
     },
-    "qtd": "5",
-    "Gravity":"10"
+    "Gravity":"10",
+    "Tmp": "15",
   }
 ] 
