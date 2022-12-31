@@ -2,10 +2,10 @@
   {
     "id": 0,
     "title": "Mercury",
-    "subTitle": "closest planet to the,sun",
+    "subTitle": "closest planet to the sun",
     "Distance": "91 Mi (Km)",
     "image": {
-      "uri": "https://img2.gratispng.com/20180404/jse/kisspng-mercury-planet-solar-system-orbit-uranus-planets-5ac59bcbdd0386.1409466415228999159053.jpg"
+      "uri": ""
     },
     "Graviti":"4",
     "Tmp":"164",
@@ -16,7 +16,7 @@
     "subTitle": "Jewel of Heaven",
     "Distance": "41 Mi (KM)",
     "image": {
-      "uri": "https://img2.gratispng.com/20180222/dfq/kisspng-earth-planet-venus-neptune-mars-planet-5a8f8df3d9b446.3317327015193574278917.jpg"
+      "uri": ""
     },
     "Gravity":"10",
     "Tmp": "15",
