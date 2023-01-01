@@ -42,5 +42,27 @@
     },
     "Gravity":"4",
     "Tmp": "-51"
+  },
+  {
+    "id": 4,
+    "title": "Jupiter",
+    "subTitle": "jewel of the Solar System",
+    "Distance": "628 Mi (KM)",
+    "image": {
+      "uri": "https://w7.pngwing.com/pngs/901/693/png-transparent-jupiter-planet-jupiter-planet-solar-system-juno-saturn-jupiter-file-atmosphere-sphere-space-thumbnail.png"
+    },
+    "Gravity":"25",
+    "Tmp": "-110"
+  },
+  {
+    "id": 3,
+    "title": "Saturno",
+    "subTitle": "Red Planet",
+    "Distance": "1.279 Mi (KM)",
+    "image": {
+      "uri": "https://img2.gratispng.com/20180404/jxw/kisspng-agar-io-jupiter-planet-solar-system-jupiter-5ac44f114b2446.8509729915228147373078.jpg"
+    },
+    "Gravity":"10",
+    "Tmp": "-138"
   }
 ] 
