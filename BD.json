@@ -118,18 +118,6 @@
     "Gravity":"274",
     "Tmp": "5.504°",
     "Tipo": "Star"
-  },
-  {
-    "id": 9,
-    "title": "Sun",
-    "subTitle": "Dwarf Star",
-    "Distance": "149 Mi (KM)",
-    "image": {
-      "uri": "https://cdn.pixabay.com/photo/2018/01/26/13/04/sun-3108640_960_720.png"
-    },
-    "Gravity":"274",
-    "Tmp": "5.504°",
-    "Tipo": "Star"
   }
 ] 
 
