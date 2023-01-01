@@ -8,7 +8,8 @@
       "uri": "https://img2.gratispng.com/20180404/jse/kisspng-mercury-planet-solar-system-orbit-uranus-planets-5ac59bcbdd0386.1409466415228999159053.jpg"
     },
     "Graviti":"4",
-    "Tmp":"164"
+    "Tmp":"164",
+    "Tipo": "Planet"
   },
   {
     "id": 1,
@@ -19,7 +20,8 @@
       "uri": "https://img2.gratispng.com/20180609/xqe/kisspng-venus-earth-planet-solar-system-5b1b8c240dd344.0575986715285320040566.jpg"
     },
     "Gravity":"9",
-    "Tmp": "462"
+    "Tmp": "462",
+    "Tipo": "Planet"
   },
   {
     "id": 2,
@@ -30,7 +32,8 @@
       "uri": "https://w7.pngwing.com/pngs/188/518/png-transparent-earth-graphy-globe-earth-globe-photography-atmosphere-thumbnail.png"
     },
     "Gravity":"10",
-    "Tmp": "15"
+    "Tmp": "15",
+    "Tipo": "Planet"
   },
   {
     "id": 3,
@@ -41,7 +44,8 @@
       "uri": "https://w7.pngwing.com/pngs/16/806/png-transparent-planet-mars-illustration-earth-terrestrial-planet-mars-solar-system-mars-sphere-venus-astronomical-object-thumbnail.png"
     },
     "Gravity":"4",
-    "Tmp": "-51"
+    "Tmp": "-51",
+    "Tipo": "Planet"
   },
   {
     "id": 4,
@@ -52,7 +56,8 @@
       "uri": "https://w7.pngwing.com/pngs/901/693/png-transparent-jupiter-planet-jupiter-planet-solar-system-juno-saturn-jupiter-file-atmosphere-sphere-space-thumbnail.png"
     },
     "Gravity":"25",
-    "Tmp": "-110"
+    "Tmp": "-110",
+    "Tipo": "Planet"
   },
   {
     "id": 5,
@@ -63,7 +68,8 @@
       "uri": "https://w7.pngwing.com/pngs/662/473/png-transparent-saturn-planet-solar-system-cassini-huygens-metallic-hydrogen-planet-miscellaneous-desktop-wallpaper-orbit.png"
     },
     "Gravity":"10",
-    "Tmp": "-138"
+    "Tmp": "-138",
+    "Tipo": "Planet"
   },
   {
     "id": 6,
@@ -74,7 +80,8 @@
       "uri": "https://img2.gratispng.com/20180402/rie/kisspng-earth-planet-uranus-solar-system-clip-art-planet-5ac1d2f2392b67.2010136715226518902342.jpg"
     },
     "Gravity":"9",
-    "Tmp": "-197"
+    "Tmp": "-197",
+    "Tipo": "Planet"
   },
   {
     "id": 7,
@@ -85,6 +92,31 @@
       "uri": "https://img2.gratispng.com/20180702/uhl/kisspng-discovery-of-neptune-earth-planet-solar-system-neptune-god-5b3a30b9855da1.1633264815305402175463.jpg"
     },
     "Gravity":"11",
-    "Tmp": "-245"
+    "Tmp": "-245",
+    "Tipo": "Planet"
+  },
+  {
+    "id": 8,
+    "title": "Moon",
+    "subTitle": "Natural satellite",
+    "Distance": "384 Mil (KM)",
+    "image": {
+      "uri": "https://e7.pngegg.com/pngimages/441/938/png-clipart-moon-moon.png"
+    },
+    "Gravity":"2",
+    "Tmp": "variable temperature",
+    "Tipo": "Satellite"
+  },
+  {
+    "id": 9,
+    "title": "Sun",
+    "subTitle": "Dwarf Star",
+    "Distance": "149 Mi (KM)",
+    "image": {
+      "uri": "https://cdn.pixabay.com/photo/2018/01/26/13/04/sun-3108640_960_720.png"
+    },
+    "Gravity":"274",
+    "Tmp": "5.504°,
+    "Tipo": "Star
   }
 ] 
