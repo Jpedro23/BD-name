@@ -55,7 +55,7 @@
     "Tmp": "-110"
   },
   {
-    "id": 3,
+    "id": 5,
     "title": "Saturno",
     "subTitle": "Red Planet",
     "Distance": "1.279 Mi (KM)",
@@ -64,5 +64,27 @@
     },
     "Gravity":"10",
     "Tmp": "-138"
+  },
+  {
+    "id": 6,
+    "title": "Urano",
+    "subTitle": "Blue Planet",
+    "Distance": "2.721 Mi (KM)",
+    "image": {
+      "uri": "https://img2.gratispng.com/20180402/rie/kisspng-earth-planet-uranus-solar-system-clip-art-planet-5ac1d2f2392b67.2010136715226518902342.jpg"
+    },
+    "Gravity":"9",
+    "Tmp": "-197"
+  },
+  {
+    "id": 7,
+    "title": "Netuno",
+    "subTitle": "Ice Giant",
+    "Distance": "4.354 Mi (KM)",
+    "image": {
+      "uri": "https://img2.gratispng.com/20180702/uhl/kisspng-discovery-of-neptune-earth-planet-solar-system-neptune-god-5b3a30b9855da1.1633264815305402175463.jpg"
+    },
+    "Gravity":"11",
+    "Tmp": "-245"
   }
 ] 
