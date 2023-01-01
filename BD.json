@@ -61,7 +61,7 @@
   },
   {
     "id": 5,
-    "title": "Saturno",
+    "title": "Saturn",
     "subTitle": "Red Planet",
     "Distance": "1.279 Mi (KM)",
     "image": {
@@ -73,7 +73,7 @@
   },
   {
     "id": 6,
-    "title": "Urano",
+    "title": "Uranus",
     "subTitle": "Blue Planet",
     "Distance": "2.721 Mi (KM)",
     "image": {
@@ -85,7 +85,7 @@
   },
   {
     "id": 7,
-    "title": "Netuno",
+    "title": "Neptune",
     "subTitle": "Ice Giant",
     "Distance": "4.354 Mi (KM)",
     "image": {
