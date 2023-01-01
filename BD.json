@@ -18,7 +18,29 @@
     "image": {
       "uri": "https://img2.gratispng.com/20180609/xqe/kisspng-venus-earth-planet-solar-system-5b1b8c240dd344.0575986715285320040566.jpg"
     },
+    "Gravity":"9",
+    "Tmp": "462"
+  },
+  {
+    "id": 2,
+    "title": "Earth",
+    "subTitle": "Water Planet",
+    "Distance": "0 (KM)",
+    "image": {
+      "uri": "https://w7.pngwing.com/pngs/188/518/png-transparent-earth-graphy-globe-earth-globe-photography-atmosphere-thumbnail.png"
+    },
     "Gravity":"10",
     "Tmp": "15"
+  },
+  {
+    "id": 3,
+    "title": "Mars",
+    "subTitle": "Red Planet",
+    "Distance": "78 Mi (KM)",
+    "image": {
+      "uri": "https://w7.pngwing.com/pngs/16/806/png-transparent-planet-mars-illustration-earth-terrestrial-planet-mars-solar-system-mars-sphere-venus-astronomical-object-thumbnail.png"
+    },
+    "Gravity":"4",
+    "Tmp": "-51"
   }
 ] 
