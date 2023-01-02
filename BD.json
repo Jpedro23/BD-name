@@ -8,7 +8,7 @@
       "uri": "https://cdn.pixabay.com/photo/2021/04/05/15/44/mercury-6153848_960_720.png"
     },
     "Graviti":"4",
-    "Tmp":"164",
+    "Tmp":"164°",
     "Tipo": "Planet",
     "Descripition":"Mercúrio é o planeta mais próximo do Sol. Mercúrio é um planeta que não possui uma inclinação semelhante à da Terra. Sem essa inclinação e com uma translação curta, não há existência de estações do ano. Essa baixa inclinação explica também o gelo encontrado nas crateras desse planeta."
   },
@@ -21,7 +21,7 @@
       "uri": "https://www.pngmart.com/files/22/Venus-PNG-Clipart.png"
     },
     "Gravity":"9",
-    "Tmp": "462",
+    "Tmp": "462°",
     "Tipo": "Planet",
     "Descripition":"Vênus tem 12.104 km de diâmetro, ou seja, seu raio equivale a 6.052 km. A sua superfície é coberta de lava e composta principalmente de dióxido de carbono e ácido sulfúrico, os quais formam nuvens densas responsáveis pelo fenômeno de efeito estufa."
   },
@@ -34,7 +34,7 @@
       "uri": "https://cdn.pixabay.com/photo/2016/04/02/21/01/earth-1303628_960_720.png"
     },
     "Gravity":"10",
-    "Tmp": "15",
+    "Tmp": "15°",
     "Tipo": "Planet",
     "Descripition":"O Planeta Terra é conhecido como Planeta Azul, por ter 70% da sua superfície coberta de água. O Planeta Terra é um dos planetas que fazem parte do Sistema Solar e é o terceiro planeta mais próximo do Sol. A sua formação ocorreu há bilhões de anos, assim como a existência de vida aqui ."
   },
@@ -47,7 +47,7 @@
       "uri": "https://www.freepnglogos.com/uploads/mars-png/mars-transparent-png-stickpng-0.png"
     },
     "Gravity":"4",
-    "Tmp": "-51",
+    "Tmp": "-51°",
     "Tipo": "Planet",
     "Descripition":"𝐌𝐚𝐫𝐭𝐞 𝐞́ 𝐨 𝐪𝐮𝐚𝐫𝐭𝐨 𝐩𝐥𝐚𝐧𝐞𝐭𝐚 𝐚 𝐩𝐚𝐫𝐭𝐢𝐫 𝐝𝐨 𝐒𝐨𝐥, 𝐨 𝐬𝐞𝐠𝐮𝐧𝐝𝐨 𝐦𝐞𝐧𝐨𝐫 𝐝𝐨 𝐒𝐢𝐬𝐭𝐞𝐦𝐚 𝐒𝐨𝐥𝐚𝐫. 𝐁𝐚𝐭𝐢𝐳𝐚𝐝𝐨 𝐞𝐦 𝐡𝐨𝐦𝐞𝐧𝐚𝐠𝐞𝐦 𝐚 𝐝𝐢𝐯𝐢𝐧𝐝𝐚𝐝𝐞 𝐫𝐨𝐦𝐚𝐧𝐚 𝐝𝐚 𝐠𝐮𝐞𝐫𝐫𝐚, 𝐦𝐮𝐢𝐭𝐚𝐬 𝐯𝐞𝐳𝐞𝐬 𝐞́ 𝐝𝐞𝐬𝐜𝐫𝐢𝐭𝐨 𝐜𝐨𝐦𝐨 𝐨 𝐏𝐥𝐚𝐧𝐞𝐭𝐚 𝐕𝐞𝐫𝐦𝐞𝐥𝐡𝐨, 𝐩𝐨𝐫𝐪𝐮𝐞 𝐨 𝐨́𝐱𝐢𝐝𝐨 𝐝𝐞 𝐟𝐞𝐫𝐫𝐨 𝐩𝐫𝐞𝐝𝐨𝐦𝐢𝐧𝐚𝐧𝐭𝐞 𝐞𝐦 𝐬𝐮𝐚 𝐬𝐮𝐩𝐞𝐫𝐟𝐢́𝐜𝐢𝐞 𝐥𝐡𝐞 𝐝𝐚́ 𝐮𝐦𝐚 𝐚𝐩𝐚𝐫𝐞̂𝐧𝐜𝐢𝐚 𝐚𝐯𝐞𝐫𝐦𝐞𝐥𝐡𝐚𝐝𝐚."
   },
@@ -60,7 +60,7 @@
       "uri": "https://www.pngall.com/wp-content/uploads/7/Jupiter-PNG-Picture.png"
     },
     "Gravity":"25",
-    "Tmp": "-110",
+    "Tmp": "-110°",
     "Tipo": "Planet",
     "Descripition":"Júpiter é considerado o maior planeta do Sistema Solar, sendo rodeado de vários satélites naturais. É o quinto na ordem dos planetas tendo-se o Sol como a referência. Júpiter é o maior planeta do Sistema Solar, estando situado entre Marte e Saturno."
   },
@@ -73,7 +73,7 @@
       "uri": "https://github.com/Jpedro23/photo/blob/main/Planeta-saturno-Png-1024x1024_1_-removebg-preview.png?raw=true"
     },
     "Gravity":"10",
-    "Tmp": "-138",
+    "Tmp": "-138°",
     "Tipo": "Planet",
     "Descripition":"Saturno possui 9 vezes o tamanho do planeta Terra e é formado principalmente por gases. Dispõe de 7 conjuntos de anéis circundantes e 82 luas, como Titã, a maior e mais conhecida. Saturno é o sexto planeta a partir do Sol e é o segundo maior planeta do Sistema Solar, ficando atrás apenas de Júpiter."
   },
@@ -86,7 +86,7 @@
       "uri": "https://cdn.pixabay.com/photo/2021/04/05/15/54/uranus-6153865_960_720.png"
     },
     "Gravity":"9",
-    "Tmp": "-197",
+    "Tmp": "-197°",
     "Tipo": "Planet",
     "Descripition":"Planeta Urano é um dos maiores do Sistema Solar, sendo o sétimo a partir do Sol. Dispõe de um sistema de anéis e é formado principalmente por gases e líquidos. O planeta Urano é o terceiro maior do Sistema Solar e está posicionado na sétima órbita a partir do Sol."
   },
@@ -99,7 +99,7 @@
       "uri": "https://cdn.pixabay.com/photo/2021/04/05/15/55/neptune-6153867_960_720.png"
     },
     "Gravity":"11",
-    "Tmp": "-245",
+    "Tmp": "-245°",
     "Tipo": "Planet",
     "Descripition":"Netuno é um planeta gasoso pertencente ao Sistema Solar classificado como um gigante de gelo. Trata-se do oitavo planeta a partir do Sol, sendo, portanto, o planeta mais distante do Sol. Em decorrência disso, o tempo que Netuno leva para dar uma volta completa em torno dessa estrela é muito grande: 165 anos."
   },
