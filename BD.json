@@ -2,13 +2,13 @@
   {
     "id": "0",
     "title": "Mercury",
-    "subTitle": "closest planet to the sun",
+    "subTitle": "Closest Planet To The Sun",
     "Distance": "91 Mi (Km)",
     "image": {
       "uri": "https://cdn.pixabay.com/photo/2021/04/05/15/44/mercury-6153848_960_720.png"
     },
     "Gravity":"4",
-    "Tmp":"164°",
+    "Tmp":"- 164°",
     "Tipo": "Planet",
     "Descripition":"Mercúrio é o planeta mais próximo do Sol. Mercúrio é um planeta que não possui uma inclinação semelhante à da Terra. Sem essa inclinação e com uma translação curta, não há existência de estações do ano. Essa baixa inclinação explica também o gelo encontrado nas crateras desse planeta."
   },
@@ -112,7 +112,7 @@
       "uri": "https://www.pngall.com/wp-content/uploads/2016/03/Moon-Vector-PNG.png"
     },
     "Gravity":"2",
-    "Tmp": "variable temperature",
+    "Tmp": "Variable temperature",
     "Tipo": "Satellite",
     "Descripition":"A Lua é o único satélite natural da Terra. Está a 384.400 km do planeta, e a cada ano se afasta 3,78 centímetros. Apresenta uma exosfera fina e frágil, e sua estrutura é composta por crosta, manto e núcleo. Sua superfície está repleta de crateras de impacto, fragmentos de rocha e poeira."
   },
