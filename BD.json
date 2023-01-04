@@ -12,8 +12,8 @@
     "Tipo": "Planet",
     "Descripition":"Mercúrio é o planeta mais próximo do Sol. Mercúrio é um planeta que não possui uma inclinação semelhante à da Terra. Sem essa inclinação e com uma translação curta, não há existência de estações do ano. Essa baixa inclinação explica também o gelo encontrado nas crateras desse planeta."
   },
-  "icon":{
-  "uri":"https://cdn-icons-png.flaticon.com/512/2100/2100100.png"
+    "icon":{
+      "uri":"https://cdn-icons-png.flaticon.com/512/2100/2100100.png"
   },
   {
     "id": "1",
